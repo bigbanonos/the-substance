@@ -9,37 +9,37 @@ const state = {
     {
       offset: 1,
       factor: 1.75,
-      header: "District 4",
+      header: "Jefferson",
       image: "/photo-1515036551567-bf1198cccc35.jpeg",
       aspect: 1.51,
-      text: "Two thousand pharmacologists and bio-chemists were subsidized. Six years later it was being produced commercially."
+      text: "Jefferson recently enjoy post Thanksgiving empanadas with his favorite J. Just ask him."
     },
     {
       offset: 2,
       factor: 2.0,
-      header: "Diamond Road",
+      header: "Antonella",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
       text:
-        "The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend."
+        "This Christmas, Lady Antonella is celebrating the true meaning of Christmas by giving you zero gifts, but she did bring strawberry rhubarb pie near the old devices on floor 3. She didn't like the vegan almond butter. She did appreciate the water refill."
     },
     {
       offset: 3,
       factor: 2.25,
-      header: "Catalina",
+      header: "Dominique",
       image: "/ph1.jpg",
       aspect: 1.5037,
       text:
-        "The substance can take you to heaven but it can also take you to hell. Or else to both, together or alternately. Or else (if you're lucky, or if you've made yourself ready) beyond either of them. And then beyond the beyond, back to where you started from — back to here, back to New Rotham sted, back to business as usual. Only now, of course, business as usual is completely different."
+        "Dominique Young Unique recently spent a week with her sister and niece or nephew. Went to Ireland. Iceland. I'm assuming Ecuador. If you're reading this on December 19, 2019, she has cool blue pants on."
     },
     {
       offset: 4,
       factor: 2.0,
-      header: "Building 21",
+      header: "Ivi",
       image: "/ph3.jpg",
       aspect: 0.665,
       text:
-        "We’ve found that the people whose EEG doesn’t show any alpha-wave activity when they’re relaxed aren’t likely to respond significantly to the substance. That means that, for about fifteen percent of the population, we have to find other approaches to liberation."
+        "Poison Ivi. Blue Ivi. the songs i've liked from Magestic Casual playlist in 2k19 were Model Man: Clarity, Hether: When U Loved Me, Golda: Jaded, Jakob Ogawa: You and I, Bakar: Hell N Back, Nakala: Do It Right, Peggy Gou: Starry Night."
     },
     {
       offset: 5,
