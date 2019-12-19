@@ -57,11 +57,11 @@ function Content() {
       <Block factor={1} offset={0}>
         <Block factor={1.2}>
           <Text left size={w * 0.08} position={[-w / 3.2, 0.5, -1]} color="#d40749">
-            MOKSHA
+            hello
           </Text>
         </Block>
         <Block factor={1.0}>
-          <Dom position={[-w / 3.2, -w * 0.08 + 0.25, -1]}>It was the year 2076.{mobile ? <br /> : " "}The substance had arrived.</Dom>
+          <Dom position={[-w / 3.2, -w * 0.08 + 0.25, -1]}>a few snap shots from.{mobile ? <br /> : " "}from the jewels of the ccf .</Dom>
         </Block>
       </Block>
       <Block factor={1.2} offset={5.7}>
