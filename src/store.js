@@ -12,7 +12,7 @@ const state = {
       header: "Jefferson",
       image: "/photo-1515036551567-bf1198cccc35.jpeg",
       aspect: 1.51,
-      text: "Jefferson recently enjoy post Thanksgiving empanadas with his favorite J. Just ask him."
+      text: "Coquito Coquito Coquito Coquito Coquito Coquito."
     },
     {
       offset: 2,
@@ -21,7 +21,7 @@ const state = {
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
       text:
-        "This Christmas, Lady Antonella is celebrating the true meaning of Christmas by giving you zero gifts, but she did bring strawberry rhubarb pie near the old devices on floor 3. She didn't like the vegan almond butter. She did appreciate the water refill."
+        "Jefferson recently enjoy post Thanksgiving empanadas with his favorite J. Just ask him............This Christmas, Lady Antonella is celebrating the true meaning of Christmas by giving you zero gifts, but she did bring strawberry rhubarb pie near the old devices on floor 3. She didn't like the vegan almond butter. She did appreciate the water refill."
     },
     {
       offset: 3,
