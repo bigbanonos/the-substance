@@ -45,7 +45,7 @@ const state = {
       offset: 5,
       factor: 1.75,
       header: "Antonella",
-      image: "/photo-1533577116850-9cc66cad8a9b.jpeg",
+      image: "/photo-1516245266743-983948b98d53.jpeg",
       aspect: 1.55,
       text:
         "This Christmas, Lady Antonella is celebrating the true meaning of Christmas by giving you zero gifts, but she did bring strawberry rhubarb pie near the old devices on floor 3. She didn't like the vegan almond butter. She did appreciate the water refill."
