@@ -26,11 +26,11 @@ const state = {
     {
       offset: 3,
       factor: 2.25,
-      header: "Jefferson",
+      header: "Jeffersons",
       image: "/ph1.jpg",
       aspect: 1.5037,
       text:
-        "Jefferson recently enjoy post Thanksgiving empanadas with his favorite J. Just ask him."
+        "This is from a tv show called The Jeffersons."
     },
     {
       offset: 4,
