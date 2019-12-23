@@ -21,7 +21,7 @@ const state = {
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
       text:
-        "Alexis. Big Bird. Ernie. Cookie Monster. Bet"
+        "Pictured Above: Alexis. Big Bird. Ernie. Cookie Monster. Bert"
     },
     {
       offset: 3,
@@ -50,7 +50,7 @@ const state = {
       text:
         "This Christmas, Lady Antonella is celebrating the true meaning of Christmas by giving you zero gifts, but she did bring strawberry rhubarb pie near the old devices on floor 3. She didn't like the vegan almond butter. She did appreciate the water refill."
     },
-    { offset: 7, factor: 1.05, header: "Dominque", image: "/photo-1548191265-cc70d3d45ba1.jpeg", aspect: 1.77, text: "Dominique Young Unique recently spent a week with her sister and niece or nephew. Went to Ireland. Iceland. I'm assuming Ecuador. If you're reading this on December 19, 2019, she has cool blue pants on." }
+    { offset: 7, factor: 1.05, header: "Dominique", image: "/photo-1548191265-cc70d3d45ba1.jpeg", aspect: 1.77, text: "Dominique Young Unique recently spent a week with her sister and niece or nephew. Went to Ireland. Iceland. I'm assuming Ecuador. If you're reading this on December 19, 2019, she has cool blue pants on." }
   ],
   stripes: [
     { offset: 0, color: "#000", height: 13 },
